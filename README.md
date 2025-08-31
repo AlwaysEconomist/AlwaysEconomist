@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I am certified Microsoft/DataCamp Data Analyst and Power BI Developer with expertise in Python, SQL, Power BI and Excel.
+- 🔭 I have been working on several projects for [NeedPam.com](https://www.needpam.com/) a market place including:
+   - RFM Analysis 
+      
+
 <!--
 **AlwaysEconomist/AlwaysEconomist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
