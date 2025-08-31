@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-- I am certified Microsoft/DataCamp Data Analyst and Power BI Developer with advanced proficiency in Python, SQL, Power BI, and Excel, delivering data-driven insights and solutions.
+-  Certified Microsoft/DataCamp Data Analyst and Power BI Developer with strong skills in Python, SQL, Power BI, and Excel, creating valuable data insights.
 
--  Key Projects at [NeedPam.com](https://www.needpam.com/), a leading marketplace:
-    - Developed an RFM Customer Segmentation Model in Python, reducing customer churn by 25% through targeted retention strategies.
+
+-  🔭 Key Projects at [NeedPam.com](https://www.needpam.com/), an online retail store:
+    - Developped an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
     - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 12% with actionable predictions.
-    - Designed Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
-    - Performed E-Commerce Analysis using MySQL and Excel, optimizing operational efficiency and prevent overstocked by 15%.
-    - Created a Sales Competitors Analysis Dashboard in Power BI, providing competitive insights to drive strategic decisions.
-    - Contributed to numerous additional projects showcasing diverse analytical expertise.
+    - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
+    - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 15%. 
+    - Harnessed Python and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
 
-- Passionate about building interactive dashboards, performing data cleaning and analysis, and executing sales forecasting (predictive analysis) and RFM segmentation. I am eager to expand my skills into Machine Learning to unlock smarter, data-informed business decisions and further elevate my impact in the field.
+
+- 💬  I enjoy creating interactive dashboards, cleaning and analyzing data, and building forecasting models and RFM segmentation. I’m excited to learn Machine Learning to make smarter business decisions and grow my impact.
+
+
+- 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
+
+
 
 
     
