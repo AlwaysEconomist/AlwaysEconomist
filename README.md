@@ -5,7 +5,7 @@
 -  Key Projects at [NeedPam.com](https://www.needpam.com/), a leading marketplace:
     - Developed an RFM Customer Segmentation Model in Python, reducing customer churn by 25% through targeted retention strategies.
     - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 12% with actionable predictions.
-    - Designed a Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
+    - Designed Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
     - Performed E-Commerce Analysis using MySQL and Excel, optimizing operational efficiency and prevent overstocked by 15%.
     - Created a Sales Competitors Analysis Dashboard in Power BI, providing competitive insights to drive strategic decisions.
     - Contributed to numerous additional projects showcasing diverse analytical expertise.
