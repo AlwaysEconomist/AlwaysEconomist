@@ -8,7 +8,7 @@
     - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 12% with actionable predictions.
     - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
     - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 15%. 
-    - Harnessed Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
+    - Harnessed Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 27%.
 
 
 - 💬  I enjoy creating interactive dashboards, cleaning and analyzing data, and building forecasting models and RFM segmentation. I’m actively expanding my expertise into Machine Learning to drive smarter business decisions and amplify my impact in the field.
