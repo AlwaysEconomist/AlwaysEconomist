@@ -11,7 +11,7 @@
     - Leveraged Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 27%.
 
 
-- 💬  I enjoy creating interactive dashboards, cleaning and analyzing data, building forecasting models and RFM segmentation. I’m actively expanding my expertise into Machine Learning to drive smarter business decisions and amplify my impact in the field.
+- 💬  I enjoy creating interactive dashboards, cleaning and analyzing data using statistical methos, building forecasting models and RFM segmentation. I’m actively expanding my expertise into Machine Learning to drive smarter business decisions and amplify my impact in the field.
 
 
 - 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
