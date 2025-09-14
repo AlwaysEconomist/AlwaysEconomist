@@ -4,7 +4,7 @@
 
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), an online retail store:
-    - Developped an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
+    - Developed an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
     - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 12% with actionable predictions.
     - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
     - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 15%. 
