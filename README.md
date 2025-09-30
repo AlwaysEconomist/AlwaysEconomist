@@ -1,14 +1,15 @@
 ## Hi there 👋
 
--  I am a skilled Data Analyst and Power BI Developer, proficient in Python, SQL, Power BI, and Excel, delivering actionable and valuable data insights.
-
+-  I am a skilled Data Analyst and Power BI Developer with an Economic & Finance focused, proficient in Python, SQL, Power BI, and Excel, delivering actionable and valuable data solutions.
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), an online retail store:
+  
     - Developed an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
-    - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 12% with actionable predictions.
-    - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 43%.
-    - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 15%. 
-    - Leveraged Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 27%.
+    - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 32% with actionable predictions.
+    - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 93%.
+    - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 45%. 
+    - Leveraged Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
+    - Create, manage, and distribute professional spreadsheets for a variety of specialized purposes including Financial Modeling.
 
 
 - 💬  I am passionate about building interactive dashboards and leveraging statistical methods for data cleaning and analysis. My experience includes developing forecasting models to predict sales and conducting RFM segmentation to derive actionable insights. Currently, I am expanding my expertise in Machine Learning to enhance data-driven decision-making and maximize my impact in the field.
