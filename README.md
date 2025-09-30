@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--  I am a skilled Data Analyst and Power BI Developer with an Economic & Finance focused, proficient in Python, SQL, Power BI, and Excel, delivering actionable and valuable data solutions.
+-  I am a skilled Data Analyst and Power BI Developer with a focus on Economics and Finance. Proficient in Python, SQL, Power BI, and Excel, I deliver actionable, high-impact data solutions that drive informed decision-making.
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), an online retail store:
   
