@@ -2,7 +2,7 @@
 
 -  I am a skilled Data Analyst and Power BI Developer with a focus on Economics and Finance. Proficient in Python, SQL, Power BI, and Excel, I deliver actionable, high-impact data solutions that drive informed decision-making.
 
--  🔭 Key Projects at [NeedPam](https://www.needpam.com/), an online retail store:
+-  🔭 Key Projects at [NeedPam](https://www.needpam.com/), a marketplace:
   
     - Developed an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
     - Conducted Exploratory Data Analysis (EDA) and Sales Forecasting in Python, enhancing ROI by 32% with actionable predictions.
