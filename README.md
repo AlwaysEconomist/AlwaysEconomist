@@ -19,7 +19,7 @@
 
 - CERTIFICATIONS
     - [Microsoft Office Specialist: Excel Expert, MO-211 (Microsoft 365 Apps)](https://www.credly.com/badges/f3e402e1-7a5a-422b-b0a8-5829ec47cae3/public_url)
-    - [Microsoft Power BI Data Analyst, PL-300]
+    - [Microsoft Power BI Data Analyst, PL-300](https://www.credly.com/badges/f3e402e1-7a5a-422b-b0a8-5829ec47cae3/public_url)
     - [Business Intelligence Analyst (Maven Analytics)](https://certificates.mavenanalytics.io/b048262c-0636-4d46-9792-c547938736f5#acc.SCmwdnIJ)
 
 
