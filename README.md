@@ -1,12 +1,12 @@
 ## Hi there 👋
 
--  I am a skilled Data Analyst and Power BI Developer with a focus on Economics and Finance. Proficient in Python, SQL, Power BI, and Excel, I deliver actionable, high-impact data solutions that drive informed decision-making.
+-  I am a Data Analyst and Power BI Developer with a focus on Marketing and Finance. Proficient in Python, SQL, Power BI, and Excel, I deliver actionable, high-impact data solutions that drive informed decision-making.
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), a marketplace:
   
     - Developed an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
     - Conducted Data Cleaning and Exploratory Data Analysis (EDA) in Python, enhancing ROI by 32% with actionable insights.
-    - Built Sales Performance Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 93%.
+    - Built Sales Trends Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 93%.
     - Performed Analysis using MySQL and Excel, optimizing operational efficiency and reducing overstock by 45%. 
     - Leveraged Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
     - Create, manage, and distribute professional spreadsheets for a variety of specialized purposes including Financial Modeling and Cohort Retention Analysis.
