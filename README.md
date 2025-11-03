@@ -11,10 +11,6 @@
     - Leveraged Python, Excel and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
     - Create, manage, and distribute professional spreadsheets for a variety of specialized purposes including Financial Modeling and Cohort Retention Analysis.
 
-
-- 💬  I am passionate about building interactive dashboards and leveraging statistical methods for data cleaning and analysis. My experience includes developing RFM segmentation models to derive actionable insights. Currently, I am expanding my expertise in Machine Learning to enhance data-driven decision-making and maximize my impact in the field.
-
-
 - 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
 
 - CERTIFICATIONS
