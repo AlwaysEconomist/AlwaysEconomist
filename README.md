@@ -4,7 +4,7 @@
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), a marketplace:
   
-    - Developed an RFM Customer Segmentation Model in Python, cutting customer churn by 25% with targeted retention plans. 
+    - Developed an RFM Customer Segmentation Model in Python, cutting customer churn that enhance LTV by 25% with targeted retention plans. 
     - Conducted Exploratory Data Analysis (EDA) using SQL, optimizing stock inventory by 32% with actionable insights.
     - Built Sales Trends Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 93%.
     - Leveraged Python and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
@@ -13,7 +13,7 @@
 - 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
 
 - CERTIFICATIONS
-    - [Microsoft Office Specialist: Excel Expert, MO-211 (Microsoft 365 Apps)](https://www.credly.com/badges/f3e402e1-7a5a-422b-b0a8-5829ec47cae3/public_url)
+    - [Microsoft Office Specialist /Excel Expert: MO-211 (Microsoft 365 Apps)](https://www.credly.com/badges/f3e402e1-7a5a-422b-b0a8-5829ec47cae3/public_url)
     - [Microsoft Power BI Data Analyst: PL-300](https://www.credly.com/badges/f3e402e1-7a5a-422b-b0a8-5829ec47cae3/public_url)
   
 
