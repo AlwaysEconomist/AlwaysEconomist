@@ -4,10 +4,10 @@
 
 -  🔭 Key Projects at [NeedPam](https://www.needpam.com/), a marketplace:
   
-    - Developed an RFM Customer Segmentation Model in Python, cutting customer churn that enhance LTV by 25% with targeted retention plans. 
-    - Conducted Exploratory Data Analysis (EDA) using SQL, optimizing stock inventory by 32% with actionable insights.
-    - Built Sales Trends Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 93%.
+    - Developed RFM Customer Segmentation Model in Python, cutting customer churn that enhance LTV by 25% with targeted retention plans.
     - Leveraged Python and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
+    - Built Sales Trends Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 90%.
+    - Conducted Exploratory Data Analysis (EDA) using SQL, optimizing stock inventory by 32% with actionable insights.
     - Create, manage, and distribute professional spreadsheets for a variety of specialized purposes including Financial Modeling and Cohort Retention Analysis.
 
 - 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
