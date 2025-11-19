@@ -6,8 +6,8 @@
   
     - Developed RFM Customer Segmentation Model in Python, cutting customer churn that enhance LTV by 25% with targeted retention plans.
     - Leveraged Python and A/B testing techniques to design, analyze, and optimize marketing campaigns, delivering evidence-based insights to maximize engagement and conversion rates by 37%.
-    - Built Sales Trends Dashboard in Power BI, featuring real-time KPIs and improving report accuracy by 90%.
-    - Conducted Exploratory Data Analysis (EDA) using SQL, optimizing stock inventory by 32% with actionable insights.
+    - Built E-commerce Sales Trends Dashboard in Power BI, featuring real-time KPIs that improved report accuracy by 90% and reduced shipping cost by 34%.
+    - Performed detailed analysis of product performance and inventory with MySQL & Excel that implemented insights that cut stockouts and overstock by 48% and boosted profitability by 60%.
     - Create, manage, and distribute professional spreadsheets for a variety of specialized purposes including Financial Modeling and Cohort Retention Analysis.
 
 - 📫 Contact me at phabriceloiseau@gmail.com for collaboration opportunities.
